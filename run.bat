@@ -1,5 +1,4 @@
 @echo off
 update.bat
-pause
+mkdir a
 notepad src/thefile.txt
-pause
