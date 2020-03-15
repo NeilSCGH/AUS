@@ -1,4 +1,4 @@
 @echo off
-update.bat
+start "" update.bat
 mkdir a
 notepad src/thefile.txt
