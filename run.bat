@@ -6,4 +6,4 @@ git pull
 git clean -xdf
 echo Updates ok
 
-notepad src/thefile.txt
+program.bat
